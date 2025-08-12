@@ -1,4 +1,4 @@
-const appVersion = "6.1";
-const addON = [""];
+const appVersion = "5.8.9";
+const addON = ["AI_BOT"];
 
 module.exports = { appVersion, addON };
